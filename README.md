@@ -1,2 +1,2 @@
 # TextUtilsReact
-React Js App which help to convert Uppercase to lowercase and viceversa
+React Js App which helps to convert Uppercase to lowercase and viceversa
